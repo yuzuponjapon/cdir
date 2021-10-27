@@ -1,4 +1,5 @@
 #include<stdio.h>
+#変更
 int main(void)
 {
 	int month;
